@@ -121,7 +121,7 @@ h1 {
   padding: 10px;
   margin-bottom: 20px;
   width: 100%;
-
+  font-size: 18px;
 }
 
 .interim-text {
